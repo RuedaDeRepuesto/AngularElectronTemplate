@@ -11,7 +11,7 @@
     }
   },
   "files": [
-    "src/window.ts",
+    "src/index.ts",
   ],
   "include": [
     "src/electron/*.ts"
